@@ -10,3 +10,4 @@ if __name__ == '__main__':
     print(f"tester value is {tester.value}")
     print(f"tester base is {tester.base}")
     print("test")
+    print("testest")
